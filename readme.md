@@ -1,5 +1,7 @@
 # vbb-fare-zone
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/vbb-fare-zone.svg)](https://greenkeeper.io/)
+
 Get fare zone information for given VBB stations. Scraper for [bvg.de](https://www.bvg.de), therefore **unstable** and not suited for production environments. **Actually, information like this should be open data published by VBB.**
 
 [![npm version](https://img.shields.io/npm/v/vbb-fare-zone.svg)](https://www.npmjs.com/package/vbb-fare-zone)
