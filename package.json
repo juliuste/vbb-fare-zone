@@ -1,0 +1,40 @@
+{
+	"name": "vbb-fare-zone",
+	"description": "Fetch fare zone information for given VBB stations.",
+	"version": "0.0.0",
+	"keywords": [
+		"vbb",
+		"berlin",
+		"brandenburg",
+		"bvg",
+		"fare",
+		"zone",
+		"tariff",
+		"farezone"
+	],
+	"author": "Julius Tens <mail@juliustens.de>",
+	"homepage": "https://github.com/juliuste/vbb-fare-zone",
+	"repository": "juliuste/vbb-fare-zone",
+	"bugs": "https://github.com/juliuste/vbb-fare-zone/issues",
+	"main": "./index.js",
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.2",
+		"fetch-ponyfill": "^4.1.0",
+		"lodash.isstring": "^4.0.1",
+		"pinkie-promise": "^2.0.1"
+	},
+	"devDependencies": {
+		"tape": "^4.7.0"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"prepublish": "npm test"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"license": "MIT"
+}
