@@ -1,6 +1,6 @@
 # vbb-fare-zone
 
-Get fare zone information for given VBB stations. Scraper for [bvg.de](https://www.bvg.de), therefore **unstable** and not suited for production environments. **Actually, information like this should be open data published by VBB.**
+Get fare zone information for given VBB stations. **Scraper** for [bvg.de](https://www.bvg.de), therefore **unstable** and not suited for production environments. **Actually, information like this should be open data published by VBB.**
 
 [![npm version](https://img.shields.io/npm/v/vbb-fare-zone.svg)](https://www.npmjs.com/package/vbb-fare-zone)
 [![Build Status](https://travis-ci.org/juliuste/vbb-fare-zone.svg?branch=master)](https://travis-ci.org/juliuste/vbb-fare-zone)
