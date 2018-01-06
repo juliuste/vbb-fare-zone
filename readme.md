@@ -4,6 +4,7 @@ Get fare zone information for given VBB stations. **Scraper** for [bvg.de](https
 
 [![npm version](https://img.shields.io/npm/v/vbb-fare-zone.svg)](https://www.npmjs.com/package/vbb-fare-zone)
 [![Build Status](https://travis-ci.org/juliuste/vbb-fare-zone.svg?branch=master)](https://travis-ci.org/juliuste/vbb-fare-zone)
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/vbb-fare-zone.svg)](https://greenkeeper.io/)
 [![dependency status](https://img.shields.io/david/juliuste/vbb-fare-zone.svg)](https://david-dm.org/juliuste/vbb-fare-zone)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/vbb-fare-zone.svg)](https://david-dm.org/juliuste/vbb-fare-zone#info=devDependencies)
 [![license](https://img.shields.io/github/license/juliuste/vbb-fare-zone.svg?style=flat)](LICENSE)
